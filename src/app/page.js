@@ -1,11 +1,8 @@
-import React from 'react';
-
-const HomePage = () => {
+export default function page () {
+  
   return (
     <div>
-      <h4>This is Home page</h4>
+      <h3 className="text-2xl text-center mt-4">This is home page first creation</h3>
     </div>
-  );
-};
-
-export default HomePage;
+  )
+}
