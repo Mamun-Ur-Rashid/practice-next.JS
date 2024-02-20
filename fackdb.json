@@ -1,0 +1,64 @@
+{
+    "posts": [
+        {
+          "id": 1,
+          "title": "Introduction to JSON",
+          "description": "Learn the basics of JSON data format.",
+          "likeCount": 150
+        },
+        {
+          "id": 2,
+          "title": "Building Responsive Websites",
+          "description": "Explore techniques for creating responsive web designs.",
+          "likeCount": 98
+        },
+        {
+          "id": 3,
+          "title": "JavaScript Fundamentals",
+          "description": "Master the core concepts of JavaScript programming.",
+          "likeCount": 210
+        },
+        {
+          "id": 4,
+          "title": "Data Visualization with D3.js",
+          "description": "Create interactive data visualizations using D3.js library.",
+          "likeCount": 175
+        },
+        {
+          "id": 5,
+          "title": "React Component Lifecycle",
+          "description": "Understand the lifecycle methods in React components.",
+          "likeCount": 132
+        },
+        {
+          "id": 6,
+          "title": "Node.js RESTful API",
+          "description": "Build a RESTful API using Node.js and Express.",
+          "likeCount": 187
+        },
+        {
+          "id": 7,
+          "title": "Python Data Analysis",
+          "description": "Explore data analysis techniques using Python and pandas.",
+          "likeCount": 201
+        },
+        {
+          "id": 8,
+          "title": "Web Security Best Practices",
+          "description": "Learn essential web security practices to protect your applications.",
+          "likeCount": 155
+        },
+        {
+          "id": 9,
+          "title": "GraphQL Essentials",
+          "description": "Discover the key concepts of GraphQL for building APIs.",
+          "likeCount": 143
+        },
+        {
+          "id": 10,
+          "title": "Responsive UI Design Patterns",
+          "description": "Implement effective UI design patterns for responsive web applications.",
+          "likeCount": 178
+        }
+      ]
+}
