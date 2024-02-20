@@ -5,6 +5,7 @@ import { useState } from "react";
 const HomePage = () => {
 
     const [count , setCount] = useState(0);
+    throw new Error;
     return (
         <div className="w-1/2 mx-auto m-10 space-y-4">
             <h2>This is next app</h2>
